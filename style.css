@@ -6,7 +6,7 @@
     box-sizing: border-box;
   font-family: "Roboto", sans-serif;
   scroll-behavior: smooth;
-  overflow-x:hidden ;
+
 }
 :root{
     font-size: 62.5%;
@@ -20,6 +20,8 @@ h1 {
     font-size: clamp(3rem, 5vw, 6rem);
     margin-bottom: 2rem;
 }
+
+
 
 main{
     width: 100%;
