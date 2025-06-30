@@ -1,1 +1,22 @@
-the website ur :  https://basma-bensadi.github.io/portfolio-website/
+# 💼 Personal Portfolio Website
+
+🎯 A clean, responsive portfolio website to showcase my web development projects and skills.
+
+## 🚀 Features
+- Mobile-friendly, responsive layout
+- Simple project gallery
+- Clean modern design with subtle animations
+- Social links and contact section
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## 📸 Live Demo
+👉 [https://basma-bensadi.github.io/portfolio-website/](https://basma-bensadi.github.io/portfolio-website/)
+
+## 📁 Folder Structure
+- `/index.html` - Home page
+- `/style.css` - Main styling
+- `/scripts/` - Future-proof folder for interactivity
